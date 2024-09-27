@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Light820
+- 👀 I’m 28 year old and living germany
+- 🚀 I develop distributed multiplatform applications
